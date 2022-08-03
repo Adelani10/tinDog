@@ -616,6 +616,22 @@ video {
   left: 0.75rem;
 }
 
+.top-0 {
+  top: 0px;
+}
+
+.top-32 {
+  top: 8rem;
+}
+
+.top-28 {
+  top: 7rem;
+}
+
+.left-2 {
+  left: 0.5rem;
+}
+
 .mx-auto {
   margin-left: auto;
   margin-right: auto;
@@ -764,6 +780,14 @@ video {
 
 .w-\[20\%\] {
   width: 20%;
+}
+
+.w-2\/3 {
+  width: 66.666667%;
+}
+
+.w-1\/2 {
+  width: 50%;
 }
 
 .-rotate-\[30deg\] {
